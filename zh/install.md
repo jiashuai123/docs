@@ -52,7 +52,7 @@ PGPASSWORD=root psql -h 127.0.0.1 -p 5432 -d go_admin -U postgres -f ./admin.sql
 或使用命令安装：
 
 ```bash
-$ go install github.com/GoAdminGroup/adm
+$ go install github.com/GoAdminGroup/adm@latest
 ```
 
 🍺🍺 到这里准备工作完毕~~
